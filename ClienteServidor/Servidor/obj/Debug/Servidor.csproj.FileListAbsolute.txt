@@ -1,0 +1,17 @@
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Servidor.exe.config
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Servidor.exe
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Servidor.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Compartida.dll
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\srp.dll
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Zyan.Communication.dll
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Zyan.SafeDeserializationHelpers.dll
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Compartida.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\srp.xml
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Zyan.Communication.pdb
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Zyan.Communication.xml
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\Zyan.SafeDeserializationHelpers.xml
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\de\Zyan.Communication.resources.dll
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\bin\Debug\ru\Zyan.Communication.resources.dll
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\obj\Debug\Servidor.exe
+c:\users\hugh\documents\visual studio 2015\Projects\ClienteServidor\Servidor\obj\Debug\Servidor.pdb
